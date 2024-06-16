@@ -1,0 +1,23 @@
+{
+    "_Player": {
+        "name": "",
+        "id": 0,
+        "level": 3,
+        "position": {
+            "x": -0.8253507614135742,
+            "y": -3.6171696186065676
+        }
+    },
+    "coinsColected": {
+        "_keys": [
+            "24972aa4-55cd-4ea7-a2ab-87df6a4a8f00",
+            "f2ea677e-ce58-4818-9e48-c765afd6a009",
+            "4994af7b-b6f6-4fe0-9b8f-54c8c20ef049"
+        ],
+        "_values": [
+            false,
+            true,
+            true
+        ]
+    }
+}

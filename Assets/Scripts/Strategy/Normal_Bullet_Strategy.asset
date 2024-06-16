@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c3c8961d0824a14abac8412b84ae8c3, type: 3}
+  m_Name: Normal_Bullet_Strategy
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 932550150378548560, guid: 3ae4e9de497c0cf428e34c0248f7309f, type: 3}
+  bulletSpeed: 10
+  _rb: {fileID: 8659206872926807873, guid: 3ae4e9de497c0cf428e34c0248f7309f, type: 3}
